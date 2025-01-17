@@ -47,6 +47,10 @@ aside {
     margin-top: 20px;
 }
 
+#seccion1 ul li {
+    margin-top: 5px;
+}
+
 #seccion1 h2 {
     color: green;
     padding-left: 5px;
@@ -56,6 +60,10 @@ aside {
     background-color: lightgray;
     border: 1px solid green;
     border-radius: 2%;
+    margin-top: 5px;
+}
+
+#seccion2 ul li {
     margin-top: 5px;
 }
 
